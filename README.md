@@ -1,4 +1,4 @@
-![logo](https://github.com/Shadowsweep/Shadowsweep/blob/main/YTBANNER.png)
+
 <h1 align="center">Hi 👋, I'm Utkarsh gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
